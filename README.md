@@ -42,3 +42,13 @@ Atur IP pada client dengan cara :
 \
 Lakukanlah step ini pada semua interface
 
+**Routing**
+Pada CPT, Routing dapat dilakukan pada menu Config > Routing > Static pada device Router. Lalu isi Static Routes seperti gambar dibawah pada Foosha dan tekan tombol Add\
+Pada static routing juga dibutuhkan default routing agar router dapat mengirimkan paket sesuai dengan tujuan. Default routing dibutuhkan untuk router yang berada di bawah router utama (router yang terhubung internet)\
+\
+![image](https://user-images.githubusercontent.com/75864703/143684800-c24f0457-8cac-4090-b6f9-da56f592b74f.png)
+
+
+**kendala**
+-Tidak dapat mengirim pesan pada host yang memiliki subnet yang berbeda\
+-Tidak dapat mengerjakan CIDR pada GNS3
