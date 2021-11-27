@@ -19,7 +19,11 @@ Langkah 1 - Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakuk
 ![messageImage_1635585526011](https://cdn.discordapp.com/attachments/812317762428862514/914143065990651954/unknown.png)
 
 Langkah 2 - (masukin lagnkaah dua buat tree penjelasan)\
-Langkah 3 - (masukin langkah 33 pembagian IP dari tree
+Subnet besar yang dibentuk memiliki NID 192.213.1.0 dengan netmask /19. Hitung pembagian IP berdasarkan NID dan netmask tersebut menggunakan pohon.
+
+
+Langkah 3 - (masukin langkah 33 pembagian IP dari tree)
+Lakukan subnetting dengan menggunakan pohon untuk pembagian IP sesuai dengan kebutuhan masing-masing subnet yang ada lalu berikan tanda untuk menandakan bahwa IP tersebut akan dijadikan sebagai subnet seperti gambar di bawah.
 
 ![messageImage_1635585526011](https://cdn.discordapp.com/attachments/812317762428862514/914143119258312744/unknown.png)
 
